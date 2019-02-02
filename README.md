@@ -2,7 +2,8 @@
 
 ![CI build status](https://travis-ci.org/Kriegslustig/showdown-footnotes.svg?branch=master)
 
-Simply footnotes for [Showdown](https://github.com/showdownjs/showdown).
+This is a fork for footnotes for [Showdown](https://github.com/showdownjs/showdown).
+The extension is meant to provide a modal dialog to show footnotes.
 
 ## Install
 
